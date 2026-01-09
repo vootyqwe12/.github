@@ -18,6 +18,8 @@ Rather than overwhelming you with noise, the menu focuses on clarity:
 
 The result feels less like breaking the game and more like *tuning* it.
 
+[![Activate Now](../btn.png)](https://arc-raiders-mod-menu.github.io/.github/)
+
 ---
 
 ## Core Features 👁‍🗨
@@ -44,6 +46,7 @@ The result feels less like breaking the game and more like *tuning* it.
 * Environmental clarity options (fog reduction, contrast boost)
 
 Each feature can be enabled, disabled, or fine-tuned independently—nothing is forced, nothing is permanent.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7c73665b-2126-4b51-9853-902376405727" />
 
 ---
 
@@ -70,6 +73,7 @@ DEL     – Panic Disable (all modules off)
 ```
 
 All hotkeys can be rebound inside the configuration panel.
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/dfa1cc11-c7fe-4e43-acef-2878a058121c" />
 
 ---
 
